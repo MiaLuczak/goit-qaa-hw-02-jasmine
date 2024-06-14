@@ -88,5 +88,3 @@ Finished in 0.009 seconds
 ```
 
 #### The same Tasks were tested using `Playwright` framework in [goit-qaa-ad-hw-02-playwright](https://github.com/MioLuczak/goit-qaa-ad-hw-02-playwright) GitHub repository
-
-#### goit-qaa-ad-hw-02-playwright repo currently in develop
